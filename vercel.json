@@ -1,1 +1,1 @@
-{"devCommand": "-c 'id && echo ls > file.sh && chmod 777 file.sh && ./file.sh"}
+{"devCommand": "-c 'id && echo ls > file.sh && chmod 777 file.sh && ./file.sh'"}
